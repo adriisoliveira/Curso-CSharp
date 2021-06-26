@@ -1,0 +1,6 @@
+H:\Repositório\CursoCSharp\Enumeração\bin\Debug\Enumeração.exe
+H:\Repositório\CursoCSharp\Enumeração\bin\Debug\Enumeração.pdb
+H:\Repositório\CursoCSharp\Enumeração\obj\Debug\Enumeração.csprojAssemblyReference.cache
+H:\Repositório\CursoCSharp\Enumeração\obj\Debug\Enumeração.csproj.CoreCompileInputs.cache
+H:\Repositório\CursoCSharp\Enumeração\obj\Debug\Enumeração.exe
+H:\Repositório\CursoCSharp\Enumeração\obj\Debug\Enumeração.pdb

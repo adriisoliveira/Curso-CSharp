@@ -1,0 +1,13 @@
+H:\Repository\CursoCSharp\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.exe
+H:\Repository\CursoCSharp\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.deps.json
+H:\Repository\CursoCSharp\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.runtimeconfig.json
+H:\Repository\CursoCSharp\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.runtimeconfig.dev.json
+H:\Repository\CursoCSharp\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.dll
+H:\Repository\CursoCSharp\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.pdb
+H:\Repository\CursoCSharp\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.csproj.AssemblyReference.cache
+H:\Repository\CursoCSharp\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.AssemblyInfoInputs.cache
+H:\Repository\CursoCSharp\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.AssemblyInfo.cs
+H:\Repository\CursoCSharp\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.csproj.CoreCompileInputs.cache
+H:\Repository\CursoCSharp\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.dll
+H:\Repository\CursoCSharp\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.pdb
+H:\Repository\CursoCSharp\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.genruntimeconfig.cache

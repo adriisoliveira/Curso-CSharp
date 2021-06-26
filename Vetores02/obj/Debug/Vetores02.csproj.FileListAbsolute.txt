@@ -1,0 +1,6 @@
+H:\Repositório\SeçãoQuatro\Vetores02\bin\Debug\Vetores02.exe.config
+H:\Repositório\SeçãoQuatro\Vetores02\bin\Debug\Vetores02.exe
+H:\Repositório\SeçãoQuatro\Vetores02\bin\Debug\Vetores02.pdb
+H:\Repositório\SeçãoQuatro\Vetores02\obj\Debug\Vetores02.csproj.CoreCompileInputs.cache
+H:\Repositório\SeçãoQuatro\Vetores02\obj\Debug\Vetores02.exe
+H:\Repositório\SeçãoQuatro\Vetores02\obj\Debug\Vetores02.pdb

@@ -1,0 +1,7 @@
+H:\Repositório\SeçãoQuatro\Course\bin\Debug\Course.exe.config
+H:\Repositório\SeçãoQuatro\Course\bin\Debug\Course.exe
+H:\Repositório\SeçãoQuatro\Course\bin\Debug\Course.pdb
+H:\Repositório\SeçãoQuatro\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+H:\Repositório\SeçãoQuatro\Course\obj\Debug\Course.exe
+H:\Repositório\SeçãoQuatro\Course\obj\Debug\Course.pdb
+H:\Repositório\SeçãoQuatro\Course\obj\Debug\Course.csprojAssemblyReference.cache

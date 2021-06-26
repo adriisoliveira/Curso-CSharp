@@ -1,0 +1,6 @@
+H:\Repositório\SeçãoQuatro\LacoForeach\bin\Debug\LacoForeach.exe.config
+H:\Repositório\SeçãoQuatro\LacoForeach\bin\Debug\LacoForeach.exe
+H:\Repositório\SeçãoQuatro\LacoForeach\bin\Debug\LacoForeach.pdb
+H:\Repositório\SeçãoQuatro\LacoForeach\obj\Debug\LacoForeach.csproj.CoreCompileInputs.cache
+H:\Repositório\SeçãoQuatro\LacoForeach\obj\Debug\LacoForeach.exe
+H:\Repositório\SeçãoQuatro\LacoForeach\obj\Debug\LacoForeach.pdb

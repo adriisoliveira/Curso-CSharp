@@ -1,0 +1,6 @@
+H:\Repositório\CursoCSharp\ClasseSelada\bin\Debug\ClasseSelada.exe
+H:\Repositório\CursoCSharp\ClasseSelada\bin\Debug\ClasseSelada.pdb
+H:\Repositório\CursoCSharp\ClasseSelada\obj\Debug\ClasseSelada.csprojAssemblyReference.cache
+H:\Repositório\CursoCSharp\ClasseSelada\obj\Debug\ClasseSelada.csproj.CoreCompileInputs.cache
+H:\Repositório\CursoCSharp\ClasseSelada\obj\Debug\ClasseSelada.exe
+H:\Repositório\CursoCSharp\ClasseSelada\obj\Debug\ClasseSelada.pdb

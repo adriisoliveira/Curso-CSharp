@@ -1,0 +1,7 @@
+H:\Repositório\SeçãoQuatro\Listas\bin\Debug\Listas.exe.config
+H:\Repositório\SeçãoQuatro\Listas\bin\Debug\Listas.exe
+H:\Repositório\SeçãoQuatro\Listas\bin\Debug\Listas.pdb
+H:\Repositório\SeçãoQuatro\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+H:\Repositório\SeçãoQuatro\Listas\obj\Debug\Listas.exe
+H:\Repositório\SeçãoQuatro\Listas\obj\Debug\Listas.pdb
+H:\Repositório\SeçãoQuatro\Listas\obj\Debug\Listas.csprojAssemblyReference.cache

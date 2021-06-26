@@ -1,0 +1,7 @@
+H:\Repositório\SeçãoQuatro\CursoUdemy\bin\Debug\CursoUdemy.exe.config
+H:\Repositório\SeçãoQuatro\CursoUdemy\bin\Debug\CursoUdemy.exe
+H:\Repositório\SeçãoQuatro\CursoUdemy\bin\Debug\CursoUdemy.pdb
+H:\Repositório\SeçãoQuatro\CursoUdemy\obj\Debug\CursoUdemy.csprojAssemblyReference.cache
+H:\Repositório\SeçãoQuatro\CursoUdemy\obj\Debug\CursoUdemy.csproj.CoreCompileInputs.cache
+H:\Repositório\SeçãoQuatro\CursoUdemy\obj\Debug\CursoUdemy.exe
+H:\Repositório\SeçãoQuatro\CursoUdemy\obj\Debug\CursoUdemy.pdb

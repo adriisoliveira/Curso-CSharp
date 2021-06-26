@@ -1,0 +1,7 @@
+H:\Repositório\SeçãoQuatro\ModificadorDeParametros\bin\Debug\ModificadorDeParametros.exe.config
+H:\Repositório\SeçãoQuatro\ModificadorDeParametros\bin\Debug\ModificadorDeParametros.exe
+H:\Repositório\SeçãoQuatro\ModificadorDeParametros\bin\Debug\ModificadorDeParametros.pdb
+H:\Repositório\SeçãoQuatro\ModificadorDeParametros\obj\Debug\ModificadorDeParametros.csprojAssemblyReference.cache
+H:\Repositório\SeçãoQuatro\ModificadorDeParametros\obj\Debug\ModificadorDeParametros.csproj.CoreCompileInputs.cache
+H:\Repositório\SeçãoQuatro\ModificadorDeParametros\obj\Debug\ModificadorDeParametros.exe
+H:\Repositório\SeçãoQuatro\ModificadorDeParametros\obj\Debug\ModificadorDeParametros.pdb

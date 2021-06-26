@@ -1,0 +1,14 @@
+H:\Repositório\SeçãoQuatro\ContaBancária\bin\Debug\ContaBancária.exe.config
+H:\Repositório\SeçãoQuatro\ContaBancária\bin\Debug\ContaBancária.exe
+H:\Repositório\SeçãoQuatro\ContaBancária\bin\Debug\ContaBancária.pdb
+H:\Repositório\SeçãoQuatro\ContaBancária\obj\Debug\ContaBancária.csprojAssemblyReference.cache
+H:\Repositório\SeçãoQuatro\ContaBancária\obj\Debug\ContaBancária.csproj.CoreCompileInputs.cache
+H:\Repositório\SeçãoQuatro\ContaBancária\obj\Debug\ContaBancária.exe
+H:\Repositório\SeçãoQuatro\ContaBancária\obj\Debug\ContaBancária.pdb
+H:\Repositório\CursoCSharp\ContaBancária\bin\Debug\ContaBancária.exe.config
+H:\Repositório\CursoCSharp\ContaBancária\bin\Debug\ContaBancária.exe
+H:\Repositório\CursoCSharp\ContaBancária\bin\Debug\ContaBancária.pdb
+H:\Repositório\CursoCSharp\ContaBancária\obj\Debug\ContaBancária.csprojAssemblyReference.cache
+H:\Repositório\CursoCSharp\ContaBancária\obj\Debug\ContaBancária.csproj.CoreCompileInputs.cache
+H:\Repositório\CursoCSharp\ContaBancária\obj\Debug\ContaBancária.exe
+H:\Repositório\CursoCSharp\ContaBancária\obj\Debug\ContaBancária.pdb

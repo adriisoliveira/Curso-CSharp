@@ -1,0 +1,7 @@
+H:\Repositório\SeçãoQuatro\Matriz\bin\Debug\Matriz.exe.config
+H:\Repositório\SeçãoQuatro\Matriz\bin\Debug\Matriz.exe
+H:\Repositório\SeçãoQuatro\Matriz\bin\Debug\Matriz.pdb
+H:\Repositório\SeçãoQuatro\Matriz\obj\Debug\Matriz.csprojAssemblyReference.cache
+H:\Repositório\SeçãoQuatro\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+H:\Repositório\SeçãoQuatro\Matriz\obj\Debug\Matriz.exe
+H:\Repositório\SeçãoQuatro\Matriz\obj\Debug\Matriz.pdb

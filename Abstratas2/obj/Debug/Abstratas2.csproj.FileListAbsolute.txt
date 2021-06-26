@@ -1,0 +1,6 @@
+H:\Repositório\CursoCSharp\Abstratas2\obj\Debug\Abstratas2.csprojAssemblyReference.cache
+H:\Repositório\CursoCSharp\Abstratas2\obj\Debug\Abstratas2.csproj.CoreCompileInputs.cache
+H:\Repositório\CursoCSharp\Abstratas2\bin\Debug\Abstratas2.exe
+H:\Repositório\CursoCSharp\Abstratas2\bin\Debug\Abstratas2.pdb
+H:\Repositório\CursoCSharp\Abstratas2\obj\Debug\Abstratas2.exe
+H:\Repositório\CursoCSharp\Abstratas2\obj\Debug\Abstratas2.pdb

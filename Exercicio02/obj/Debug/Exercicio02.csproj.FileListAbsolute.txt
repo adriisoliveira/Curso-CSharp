@@ -1,0 +1,6 @@
+H:\Repositório\SeçãoQuatro\Exercicio02\bin\Debug\Exercicio02.exe.config
+H:\Repositório\SeçãoQuatro\Exercicio02\bin\Debug\Exercicio02.exe
+H:\Repositório\SeçãoQuatro\Exercicio02\bin\Debug\Exercicio02.pdb
+H:\Repositório\SeçãoQuatro\Exercicio02\obj\Debug\Exercicio02.csproj.CoreCompileInputs.cache
+H:\Repositório\SeçãoQuatro\Exercicio02\obj\Debug\Exercicio02.exe
+H:\Repositório\SeçãoQuatro\Exercicio02\obj\Debug\Exercicio02.pdb

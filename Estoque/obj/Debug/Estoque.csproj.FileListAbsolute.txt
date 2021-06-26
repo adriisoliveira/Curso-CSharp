@@ -1,0 +1,7 @@
+H:\Repositório\SeçãoQuatro\Estoque\bin\Debug\Estoque.exe.config
+H:\Repositório\SeçãoQuatro\Estoque\bin\Debug\Estoque.exe
+H:\Repositório\SeçãoQuatro\Estoque\bin\Debug\Estoque.pdb
+H:\Repositório\SeçãoQuatro\Estoque\obj\Debug\Estoque.csprojAssemblyReference.cache
+H:\Repositório\SeçãoQuatro\Estoque\obj\Debug\Estoque.csproj.CoreCompileInputs.cache
+H:\Repositório\SeçãoQuatro\Estoque\obj\Debug\Estoque.exe
+H:\Repositório\SeçãoQuatro\Estoque\obj\Debug\Estoque.pdb

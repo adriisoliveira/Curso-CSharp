@@ -1,0 +1,6 @@
+H:\Repositório\CursoCSharp\Sobreposição\bin\Debug\Sobreposição.exe
+H:\Repositório\CursoCSharp\Sobreposição\bin\Debug\Sobreposição.pdb
+H:\Repositório\CursoCSharp\Sobreposição\obj\Debug\Sobreposição.csprojAssemblyReference.cache
+H:\Repositório\CursoCSharp\Sobreposição\obj\Debug\Sobreposição.csproj.CoreCompileInputs.cache
+H:\Repositório\CursoCSharp\Sobreposição\obj\Debug\Sobreposição.exe
+H:\Repositório\CursoCSharp\Sobreposição\obj\Debug\Sobreposição.pdb

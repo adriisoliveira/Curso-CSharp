@@ -1,0 +1,6 @@
+H:\Repositório\SeçãoQuatro\MetodosEstaticos\bin\Debug\MetodosEstaticos.exe.config
+H:\Repositório\SeçãoQuatro\MetodosEstaticos\bin\Debug\MetodosEstaticos.exe
+H:\Repositório\SeçãoQuatro\MetodosEstaticos\bin\Debug\MetodosEstaticos.pdb
+H:\Repositório\SeçãoQuatro\MetodosEstaticos\obj\Debug\MetodosEstaticos.csproj.CoreCompileInputs.cache
+H:\Repositório\SeçãoQuatro\MetodosEstaticos\obj\Debug\MetodosEstaticos.exe
+H:\Repositório\SeçãoQuatro\MetodosEstaticos\obj\Debug\MetodosEstaticos.pdb

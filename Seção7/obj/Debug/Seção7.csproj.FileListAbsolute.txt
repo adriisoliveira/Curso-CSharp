@@ -1,0 +1,7 @@
+H:\Repositório\SeçãoQuatro\Seção7\bin\Debug\Seção7.exe.config
+H:\Repositório\SeçãoQuatro\Seção7\bin\Debug\Seção7.exe
+H:\Repositório\SeçãoQuatro\Seção7\bin\Debug\Seção7.pdb
+H:\Repositório\SeçãoQuatro\Seção7\obj\Debug\Seção7.csprojAssemblyReference.cache
+H:\Repositório\SeçãoQuatro\Seção7\obj\Debug\Seção7.csproj.CoreCompileInputs.cache
+H:\Repositório\SeçãoQuatro\Seção7\obj\Debug\Seção7.exe
+H:\Repositório\SeçãoQuatro\Seção7\obj\Debug\Seção7.pdb

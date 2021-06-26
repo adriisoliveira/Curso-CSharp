@@ -1,0 +1,6 @@
+H:\Repositório\CursoCSharp\ComposiçãoExercicio\obj\Debug\ComposiçãoExercicio.csprojAssemblyReference.cache
+H:\Repositório\CursoCSharp\ComposiçãoExercicio\obj\Debug\ComposiçãoExercicio.csproj.CoreCompileInputs.cache
+H:\Repositório\CursoCSharp\ComposiçãoExercicio\bin\Debug\ComposiçãoExercicio.exe
+H:\Repositório\CursoCSharp\ComposiçãoExercicio\bin\Debug\ComposiçãoExercicio.pdb
+H:\Repositório\CursoCSharp\ComposiçãoExercicio\obj\Debug\ComposiçãoExercicio.exe
+H:\Repositório\CursoCSharp\ComposiçãoExercicio\obj\Debug\ComposiçãoExercicio.pdb
