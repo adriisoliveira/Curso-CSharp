@@ -11,3 +11,16 @@ H:\Repository\CursoCSharp\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.csproj.CoreC
 H:\Repository\CursoCSharp\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.dll
 H:\Repository\CursoCSharp\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.pdb
 H:\Repository\CursoCSharp\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.genruntimeconfig.cache
+H:\Repository\Curso-CSharp\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.exe
+H:\Repository\Curso-CSharp\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.deps.json
+H:\Repository\Curso-CSharp\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.runtimeconfig.json
+H:\Repository\Curso-CSharp\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.runtimeconfig.dev.json
+H:\Repository\Curso-CSharp\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.dll
+H:\Repository\Curso-CSharp\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.pdb
+H:\Repository\Curso-CSharp\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.csproj.AssemblyReference.cache
+H:\Repository\Curso-CSharp\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.AssemblyInfoInputs.cache
+H:\Repository\Curso-CSharp\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.AssemblyInfo.cs
+H:\Repository\Curso-CSharp\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.csproj.CoreCompileInputs.cache
+H:\Repository\Curso-CSharp\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.dll
+H:\Repository\Curso-CSharp\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.pdb
+H:\Repository\Curso-CSharp\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.genruntimeconfig.cache

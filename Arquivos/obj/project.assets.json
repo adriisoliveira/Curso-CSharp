@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Repository\\CursoCSharp\\Arquivos\\Arquivos.csproj",
+      "projectUniqueName": "H:\\Repository\\Curso-CSharp\\Arquivos\\Arquivos.csproj",
       "projectName": "Arquivos",
-      "projectPath": "H:\\Repository\\CursoCSharp\\Arquivos\\Arquivos.csproj",
+      "projectPath": "H:\\Repository\\Curso-CSharp\\Arquivos\\Arquivos.csproj",
       "packagesPath": "C:\\Users\\Dri\\.nuget\\packages\\",
-      "outputPath": "H:\\Repository\\CursoCSharp\\Arquivos\\obj\\",
+      "outputPath": "H:\\Repository\\Curso-CSharp\\Arquivos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

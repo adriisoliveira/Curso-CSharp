@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Repository\\Curso-CSharp\\Arquivos\\Arquivos.csproj": {}
+    "H:\\Repository\\Curso-CSharp\\ArquivosExercicio\\ArquivosExercicio.csproj": {}
   },
   "projects": {
-    "H:\\Repository\\Curso-CSharp\\Arquivos\\Arquivos.csproj": {
+    "H:\\Repository\\Curso-CSharp\\ArquivosExercicio\\ArquivosExercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Repository\\Curso-CSharp\\Arquivos\\Arquivos.csproj",
-        "projectName": "Arquivos",
-        "projectPath": "H:\\Repository\\Curso-CSharp\\Arquivos\\Arquivos.csproj",
+        "projectUniqueName": "H:\\Repository\\Curso-CSharp\\ArquivosExercicio\\ArquivosExercicio.csproj",
+        "projectName": "ArquivosExercicio",
+        "projectPath": "H:\\Repository\\Curso-CSharp\\ArquivosExercicio\\ArquivosExercicio.csproj",
         "packagesPath": "C:\\Users\\Dri\\.nuget\\packages\\",
-        "outputPath": "H:\\Repository\\Curso-CSharp\\Arquivos\\obj\\",
+        "outputPath": "H:\\Repository\\Curso-CSharp\\ArquivosExercicio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

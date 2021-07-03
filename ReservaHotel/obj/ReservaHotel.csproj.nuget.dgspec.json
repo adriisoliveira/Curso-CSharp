@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Repository\\CursoCSharp\\ReservaHotel\\ReservaHotel.csproj": {}
+    "H:\\Repository\\Curso-CSharp\\ReservaHotel\\ReservaHotel.csproj": {}
   },
   "projects": {
-    "H:\\Repository\\CursoCSharp\\ReservaHotel\\ReservaHotel.csproj": {
+    "H:\\Repository\\Curso-CSharp\\ReservaHotel\\ReservaHotel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Repository\\CursoCSharp\\ReservaHotel\\ReservaHotel.csproj",
+        "projectUniqueName": "H:\\Repository\\Curso-CSharp\\ReservaHotel\\ReservaHotel.csproj",
         "projectName": "ReservaHotel",
-        "projectPath": "H:\\Repository\\CursoCSharp\\ReservaHotel\\ReservaHotel.csproj",
+        "projectPath": "H:\\Repository\\Curso-CSharp\\ReservaHotel\\ReservaHotel.csproj",
         "packagesPath": "C:\\Users\\Dri\\.nuget\\packages\\",
-        "outputPath": "H:\\Repository\\CursoCSharp\\ReservaHotel\\obj\\",
+        "outputPath": "H:\\Repository\\Curso-CSharp\\ReservaHotel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

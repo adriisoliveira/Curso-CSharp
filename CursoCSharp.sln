@@ -59,7 +59,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceções", "Exceções\Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReservaHotel", "ReservaHotel\ReservaHotel.csproj", "{7177A466-E3EC-4976-92DE-DE72D834F4F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos", "Arquivos\Arquivos.csproj", "{FC7501CE-191B-4841-9A37-11A20FEE19E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquivos", "Arquivos\Arquivos.csproj", "{FC7501CE-191B-4841-9A37-11A20FEE19E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArquivosExercicio", "ArquivosExercicio\ArquivosExercicio.csproj", "{7958FB29-063A-41F1-B3B8-F09CF68926E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface1", "Interface1\Interface1.csproj", "{8B2D87E6-6F2C-42F5-98A0-B4B26E85FC17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +187,14 @@ Global
 		{FC7501CE-191B-4841-9A37-11A20FEE19E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC7501CE-191B-4841-9A37-11A20FEE19E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC7501CE-191B-4841-9A37-11A20FEE19E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7958FB29-063A-41F1-B3B8-F09CF68926E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7958FB29-063A-41F1-B3B8-F09CF68926E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7958FB29-063A-41F1-B3B8-F09CF68926E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7958FB29-063A-41F1-B3B8-F09CF68926E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2D87E6-6F2C-42F5-98A0-B4B26E85FC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2D87E6-6F2C-42F5-98A0-B4B26E85FC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2D87E6-6F2C-42F5-98A0-B4B26E85FC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2D87E6-6F2C-42F5-98A0-B4B26E85FC17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

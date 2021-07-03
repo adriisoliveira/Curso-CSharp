@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+kSFMSWbPAu7JnTqRSbAXP67RxTSZrGywKhQcjcVOfisZ+ekUswnLp63HZC+ZplBMKzkjnFl5bEh51ONpKh/cQ==",
+  "dgSpecHash": "wKgFB8ZwQ6G1JTVSxsbmnI+6D3JzNlFAfIUGChQya06xPtt8E9U5T9/t0g8CMQTrPSFJrhVjWWQkwCcHzpthYQ==",
   "success": true,
-  "projectFilePath": "H:\\Repository\\CursoCSharp\\Arquivos\\Arquivos.csproj",
+  "projectFilePath": "H:\\Repository\\Curso-CSharp\\Arquivos\\Arquivos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
