@@ -1,0 +1,13 @@
+H:\Repository\Curso-CSharp\Interface2\obj\Debug\netcoreapp3.1\Interface2.csproj.AssemblyReference.cache
+H:\Repository\Curso-CSharp\Interface2\obj\Debug\netcoreapp3.1\Interface2.AssemblyInfoInputs.cache
+H:\Repository\Curso-CSharp\Interface2\obj\Debug\netcoreapp3.1\Interface2.AssemblyInfo.cs
+H:\Repository\Curso-CSharp\Interface2\obj\Debug\netcoreapp3.1\Interface2.csproj.CoreCompileInputs.cache
+H:\Repository\Curso-CSharp\Interface2\bin\Debug\netcoreapp3.1\Interface2.exe
+H:\Repository\Curso-CSharp\Interface2\bin\Debug\netcoreapp3.1\Interface2.deps.json
+H:\Repository\Curso-CSharp\Interface2\bin\Debug\netcoreapp3.1\Interface2.runtimeconfig.json
+H:\Repository\Curso-CSharp\Interface2\bin\Debug\netcoreapp3.1\Interface2.runtimeconfig.dev.json
+H:\Repository\Curso-CSharp\Interface2\bin\Debug\netcoreapp3.1\Interface2.dll
+H:\Repository\Curso-CSharp\Interface2\bin\Debug\netcoreapp3.1\Interface2.pdb
+H:\Repository\Curso-CSharp\Interface2\obj\Debug\netcoreapp3.1\Interface2.dll
+H:\Repository\Curso-CSharp\Interface2\obj\Debug\netcoreapp3.1\Interface2.pdb
+H:\Repository\Curso-CSharp\Interface2\obj\Debug\netcoreapp3.1\Interface2.genruntimeconfig.cache

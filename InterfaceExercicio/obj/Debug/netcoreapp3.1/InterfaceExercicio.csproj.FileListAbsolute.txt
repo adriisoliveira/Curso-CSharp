@@ -1,0 +1,13 @@
+H:\Repository\Curso-CSharp\InterfaceExercicio\bin\Debug\netcoreapp3.1\InterfaceExercicio.exe
+H:\Repository\Curso-CSharp\InterfaceExercicio\bin\Debug\netcoreapp3.1\InterfaceExercicio.deps.json
+H:\Repository\Curso-CSharp\InterfaceExercicio\bin\Debug\netcoreapp3.1\InterfaceExercicio.runtimeconfig.json
+H:\Repository\Curso-CSharp\InterfaceExercicio\bin\Debug\netcoreapp3.1\InterfaceExercicio.runtimeconfig.dev.json
+H:\Repository\Curso-CSharp\InterfaceExercicio\bin\Debug\netcoreapp3.1\InterfaceExercicio.dll
+H:\Repository\Curso-CSharp\InterfaceExercicio\bin\Debug\netcoreapp3.1\InterfaceExercicio.pdb
+H:\Repository\Curso-CSharp\InterfaceExercicio\obj\Debug\netcoreapp3.1\InterfaceExercicio.csproj.AssemblyReference.cache
+H:\Repository\Curso-CSharp\InterfaceExercicio\obj\Debug\netcoreapp3.1\InterfaceExercicio.AssemblyInfoInputs.cache
+H:\Repository\Curso-CSharp\InterfaceExercicio\obj\Debug\netcoreapp3.1\InterfaceExercicio.AssemblyInfo.cs
+H:\Repository\Curso-CSharp\InterfaceExercicio\obj\Debug\netcoreapp3.1\InterfaceExercicio.csproj.CoreCompileInputs.cache
+H:\Repository\Curso-CSharp\InterfaceExercicio\obj\Debug\netcoreapp3.1\InterfaceExercicio.dll
+H:\Repository\Curso-CSharp\InterfaceExercicio\obj\Debug\netcoreapp3.1\InterfaceExercicio.pdb
+H:\Repository\Curso-CSharp\InterfaceExercicio\obj\Debug\netcoreapp3.1\InterfaceExercicio.genruntimeconfig.cache

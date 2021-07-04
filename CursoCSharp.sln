@@ -61,9 +61,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReservaHotel", "ReservaHote
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquivos", "Arquivos\Arquivos.csproj", "{FC7501CE-191B-4841-9A37-11A20FEE19E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArquivosExercicio", "ArquivosExercicio\ArquivosExercicio.csproj", "{7958FB29-063A-41F1-B3B8-F09CF68926E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArquivosExercicio", "ArquivosExercicio\ArquivosExercicio.csproj", "{7958FB29-063A-41F1-B3B8-F09CF68926E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface1", "Interface1\Interface1.csproj", "{8B2D87E6-6F2C-42F5-98A0-B4B26E85FC17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface1", "Interface1\Interface1.csproj", "{8B2D87E6-6F2C-42F5-98A0-B4B26E85FC17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceExercicio", "InterfaceExercicio\InterfaceExercicio.csproj", "{91DE2718-CFD7-43F2-AC11-5C630017A36A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface2", "Interface2\Interface2.csproj", "{AEA25C8A-496F-4F66-9A1E-765BFD5AB3DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +199,14 @@ Global
 		{8B2D87E6-6F2C-42F5-98A0-B4B26E85FC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B2D87E6-6F2C-42F5-98A0-B4B26E85FC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B2D87E6-6F2C-42F5-98A0-B4B26E85FC17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91DE2718-CFD7-43F2-AC11-5C630017A36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DE2718-CFD7-43F2-AC11-5C630017A36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DE2718-CFD7-43F2-AC11-5C630017A36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DE2718-CFD7-43F2-AC11-5C630017A36A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA25C8A-496F-4F66-9A1E-765BFD5AB3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA25C8A-496F-4F66-9A1E-765BFD5AB3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA25C8A-496F-4F66-9A1E-765BFD5AB3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA25C8A-496F-4F66-9A1E-765BFD5AB3DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
